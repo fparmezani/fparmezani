@@ -9,7 +9,7 @@
 
 - ▶️ I regularly post videos on [youtube.com/parmezaninet](https://youtube.com/parmezaninet)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, ASP.NET Core, Angular, Jquery**
+- 💬 Ask me about **C#,.Net Core,JavaScript, HTML, CSS, SQL, Node.JS, ASP.NET Core, Angular, Jquery**
 
 - ⚡ Fun fact **Oneye 😜**
 
